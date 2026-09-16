@@ -1,0 +1,19 @@
+# QuestaSim / ModelSim Ignore List
+work/
+*.wlf
+*.mpf
+*.mpf_new
+*.mti
+transcript
+*.bak
+*.ucdb
+
+# Vivado / Xilinx (In case you add FPGA projects later)
+*.jou
+*.log
+*.pb
+.Xil/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
